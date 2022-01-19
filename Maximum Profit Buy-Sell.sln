@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Profit Buy-Sell", "Maximum Profit Buy-Sell\Maximum Profit Buy-Sell.csproj", "{566136E5-3320-4138-BCB3-E7259CB6B456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566136E5-3320-4138-BCB3-E7259CB6B456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566136E5-3320-4138-BCB3-E7259CB6B456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566136E5-3320-4138-BCB3-E7259CB6B456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566136E5-3320-4138-BCB3-E7259CB6B456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B861816-ACC5-4773-9992-DDF5EF8E4F9F}
+	EndGlobalSection
+EndGlobal
